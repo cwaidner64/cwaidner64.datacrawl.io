@@ -5,6 +5,6 @@ import react from "@vitejs/plugin-react";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [tailwindcss(), react()],
-  assetsInclude: ['**/*.php'],
-  base: "/webstartup/",
+  assetsInclude: ["**/*.php"],
+  base: "/cwaidner64.datacrawl.io/",
 });
